@@ -19,3 +19,10 @@
 
 * __Week 8__ ML Strategy (1)
 * __Week 9__ ML Strategy (2)
+
+## Course 4 Convolutional Neural Networks
+
+* __Week 10__ Foundations of Convolutional Neural Networks
+* __Week 11__ Deep Convolutional Models: Case Studies
+* __Week 12__ Object Detection
+* __Week 13__ Special Applications: Face Recognition & Neural Style Transfer
