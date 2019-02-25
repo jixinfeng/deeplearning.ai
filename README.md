@@ -26,3 +26,8 @@
 * __Week 11__ Deep Convolutional Models: Case Studies
 * __Week 12__ Object Detection
 * __Week 13__ Special Applications: Face Recognition & Neural Style Transfer
+
+## Course 5 Sequence Models
+* __Week 14__ Recurrent Neural Networks
+* __Week 15__ Natural Language Processing & Word Embeddings
+* __Week 16__ Sequence models & Attention mechanism
